@@ -4,7 +4,9 @@ Small Node.JS utility to get the list of connected and disconnected devices
 ## Process
 
 Step 1 : clone the code
+
 Step 2 : run `npm install`
+
 Step 3 : update the control room credentials in `constants.js`
 ```
 module.exports = {
